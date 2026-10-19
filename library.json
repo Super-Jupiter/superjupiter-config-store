@@ -1,6 +1,6 @@
 {
   "name": "SuperJupiterConfigStore",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Two-slot versioned configuration with integrity checks and recoverable writes. Portable C++11 by SuperJupiter. Hardware validation pending.",
   "keywords": [
     "sensor",
